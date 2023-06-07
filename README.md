@@ -10,7 +10,7 @@
   - [Azure Resource Groups and Storage Accounts](https://github.com/ITEmily/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ITEmily/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ITEmily/azure-network-protocols)
-  - [Using ProtonVPN on a Virtual Machine](https://github.com/ITEmily/azure-network-protocols)
+  - [Using ProtonVPN on a Virtual Machine](https://github.com/ITEmily/ProtonVPN-VM)
 
 <h2>Connect with me:</h2>
 

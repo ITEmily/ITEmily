@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Azure Resource Groups and Storage Accounts](https://github.com/ITEmily/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ITEmily/configure-ad)
-  - [Using Active Directory to Create File Shares and Security Groups](https://github.com/ITEmily/ProtonVPN-VM)
+  - [Using Active Directory to Create File Shares and Security Groups](https://github.com/ITEmily/File-Shares-and-Security-Groups)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ITEmily/azure-network-protocols)
   - [Using ProtonVPN on a Virtual Machine](https://github.com/ITEmily/ProtonVPN-VM)
 
